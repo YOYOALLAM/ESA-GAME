@@ -31,3 +31,4 @@ Egyptian, Spanish and English leagues; current and historic national teams and l
 
 ## Deploy
 Create a public GitHub repository, upload files to the repository root, then Settings → Pages → Deploy from a branch → main / root.
+Update deploy
